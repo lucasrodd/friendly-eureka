@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
 	static void Inicial() {
 		// Home screen
-System.out.println("Projeto 1");
+ System.out.println("Projeto 1");
 		System.out.println("========== CONTROLE DO ESTOQUE DE PRODUTOS ® ==========");
 		System.out.println("Direitos de cópia reservado\n");
 
